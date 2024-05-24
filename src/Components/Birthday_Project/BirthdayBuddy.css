@@ -1,0 +1,18 @@
+
+.card{
+
+    background-color:#f7daee;
+    border-radius: 20px;
+}
+.btn{
+    background-color: rgb(241, 5, 33);
+    color: #fff;
+    width: 600px !important;
+    margin-top: 40px;
+}
+.innercard:hover{
+    border : 1px solid black ;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    padding: 0px 10px;
+}
